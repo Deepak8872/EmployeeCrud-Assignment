@@ -1,0 +1,24 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "firstname": "d",
+      "lastname": "d",
+      "role": "d",
+      "contactno": "1111111",
+      "email": "D@gmail.com",
+      "dob": "12-12-12",
+      "address": "d"
+    },
+    {
+      "id": 2,
+      "firstname": "e",
+      "lastname": "e",
+      "role": "e",
+      "contactno": "11111",
+      "email": "e@gmail.com",
+      "dob": "121212",
+      "address": "e"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+
+.btn {
+  border-radius: 0px;
+   :active {
+      background-color: aqua;
+  }
+}
+
+.not-active {
+  background: #fff;
+  color: grey;
+  border: 1px solid grey;
+}
+
+.active {
+  background-color: #0084ff;
+  color: #fff;
+  border: 1px solid #0084ff;
+}
